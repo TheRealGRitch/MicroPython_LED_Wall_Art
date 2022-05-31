@@ -81,7 +81,6 @@ def path_picker(Active_dots, life):
     return path
 
 def path_taker(path, all_rods,fade):
-    #this is working as inteded. DO NOT FUCK IT UP
     #Output is:
     #[A1,B1,C1,D1,...]
     #[A2,B2,C2,D2,...]
