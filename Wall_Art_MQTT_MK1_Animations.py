@@ -273,9 +273,9 @@ def rand_path(dots,life, all_rods,fade):
 #############################################
                     
 global client_id, mqtt_server, topic_sub
-ssid = "NETGEAR48"
-password = "deepsea465"
-mqtt_server = '192.168.1.31'
+ssid = "******"
+password = "******"
+mqtt_server = '*******'
 #EXAMPLE IP ADDRESS
 #mqtt_server = '192.168.1.144'
 client_id = ubinascii.hexlify(machine.unique_id())
